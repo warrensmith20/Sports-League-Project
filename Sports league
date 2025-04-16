@@ -1,0 +1,11 @@
+commit 26f9dff3cb2cc0bdb20d957c01737b0d604bd4bc (HEAD -> featureB)
+Author: warrensmith20 <letsowarren@gmail.com>
+Date:   Wed Apr 16 23:02:25 2025 +0200
+
+    Added another field (kitColour) in the Team class
+
+commit 7b8eab7ccaea10b043f93f5ebe2738d83d9baa54 (master)
+Author: warrensmith20 <letsowarren@gmail.com>
+Date:   Wed Apr 16 22:50:53 2025 +0200
+
+    Named domain classes Team,Player
